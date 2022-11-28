@@ -25,9 +25,9 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 
 
 #### Filtres :
+- sur Clients
 - Sur pays
 - Sur Années (2020 ou 2021)
-- sur Clients
 
 
 
