@@ -14,7 +14,7 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 1. [commandes.xlsx](Data/commandes.xlsx) contient : Segment (clients), Pays, Produit, Rabais, Quantité, Prix de vente, Montant, Date et la relation entre les deux tables ID RC
 2. [responsable_comptes.xlsx](Data/responsable%20comptes.xlsx) contient : Responsable de compte, adresse, email, téléphone et la relation entre les deux tables ID RC
 
-#### Relations visualisées :
+#### Relations visualisées sur le Dashbord :
 - Vente par Date
 - Quantité vendue par Clients
 - Quantité vendue par Trimestre
@@ -24,7 +24,7 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 - Totale des ventes en €
 
 
-#### Filtres :
+#### Filtres sur le Dashbord :
 - sur Clients
 - Sur Pays
 - Sur Années (2020 ou 2021)
@@ -42,7 +42,7 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 Run [Analyse_ventes_BEA.pbix](Analyse_ventes_BEA.pbix)
 
 ## Résultat
-[RESULT](Analyse_ventes_BEA.pdf)
+[Dashboard](Analyse_ventes_BEA.pdf)
 <img src="Analyse_ventes_BEA.jpg" >
 
 ## License
