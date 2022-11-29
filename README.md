@@ -14,7 +14,7 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 1. [commandes.xlsx](Data/commandes.xlsx) contient : Segment (clients), Pays, Produit, Rabais, Quantité, Prix de vente, Montant, Date et la relation entre les deux tables ID RC
 2. [responsable_comptes.xlsx](Data/responsable%20comptes.xlsx) contient : Responsable de compte, adresse, email, téléphone et la relation entre les deux tables ID RC
 
-#### Relations visualisées sur le Dashbord :
+#### Relations visualisées sur le Dashboard :
 - Vente par Date
 - Quantité vendue par Clients
 - Quantité vendue par Trimestre
