@@ -1,4 +1,4 @@
-# Analyse des ventes de la société BEA
+# Analyse et création de Dashboard des ventes de la société BEA
 
 ![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/Analyse_ventes_BEA?color=g&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Analyse_ventes_BEA?color=red&style=for-the-badge)
