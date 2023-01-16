@@ -4,6 +4,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Analyse_ventes_BEA?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/Analyse_ventes_BEA?color=yellow&style=for-the-badge)
 
+![GitHub dev_language](https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/Dax-blue?style=flat&logo=redwoodjs&logoColor=white)
+
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
 
@@ -41,8 +45,8 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 
 Run [Analyse_ventes_BEA.pbix](Analyse_ventes_BEA.pbix)
 
-## Résultat
-[Dashboard](Analyse_ventes_BEA.pdf)
+## Result
+[RESULT](Analyse_ventes_BEA.pdf)
 <img src="Analyse_ventes_BEA.jpg" >
 
 ## License
